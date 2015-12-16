@@ -1,0 +1,9 @@
+{
+  "name": "heading",
+  "description": "Simplest heading style",
+  "license": "MIT",
+  "homepage": "https://github.com/ungryfox/heading",
+  "ignore": [
+    "**/.*"
+  ]
+}
