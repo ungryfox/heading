@@ -1,6 +1,7 @@
 {
   "name": "heading",
   "description": "Simplest heading style",
+  "main": "dist/styles/heading.css",
   "license": "MIT",
   "homepage": "https://github.com/ungryfox/heading",
   "ignore": [
